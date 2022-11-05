@@ -1,16 +1,17 @@
-### Hi there 👋
+# Iritium, Tristan
+I am a software and web application developer
 
-<!--
-**AstralsDB/AstralsDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Communities
+- Owner of IRIS a OSINT based web application **PYTHON**
+- Co-organizer at [Astral](https://astral.rest) (A database search engine project) **JAVA**
 
-Here are some ideas to get you started:
+## Technologies
+- Front-end development using **Angular, React, VanillaJS**
+- Backend development using **ASP.NET Core, Node, Express**
+- Desktop application development using **UWP, WPF or WinForms**
+- Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- Twitter - [@IritiumDev](https://twitter.com/AstralDB)
+- Email - [admin@dataleak.fun](mailto:admin@dataleak.fun)
+---
