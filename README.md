@@ -1,9 +1,9 @@
-# Iritium, Tristan
+# Iritium
 I am a software and web application developer
 
 ## Communities
 - Owner of IRIS a OSINT based web application **PYTHON**
-- Co-organizer at [Astral](https://astral.rest) (A database search engine project) **JAVA**
+- Co-organizer at [Celsus](https://dataleak.fun) (A database search engine project) **JAVA**
 
 ## Technologies
 - Front-end development using **Angular, React, VanillaJS**
