@@ -1,4 +1,4 @@
-# Iritium
+# CelsusDB
 I am a software and web application developer
 
 ## Communities
@@ -12,6 +12,5 @@ I am a software and web application developer
 - Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
 
 ## Contact Me
-- Twitter - [@IritiumDev](https://twitter.com/AstralDB)
-- Email - [admin@dataleak.fun](mailto:admin@dataleak.fun)
+- Twitter - [@IritiumDev](https://twitter.com/CelsusDB)
 ---
